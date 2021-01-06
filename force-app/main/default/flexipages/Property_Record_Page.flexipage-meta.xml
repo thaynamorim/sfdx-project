@@ -92,13 +92,15 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
+    <componentInstances>
             <componentInstanceProperties>
                 <name>animations</name>
                 <value>true</value>
             </componentInstanceProperties>
             <componentName>PictureGalleryCard</componentName>
         </componentInstances>
+    </flexiPageRegions>
+    <flexiPageRegions>
         <componentInstances>
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
