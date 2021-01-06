@@ -92,7 +92,7 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-    <componentInstances>
+        <componentInstances>
             <componentInstanceProperties>
                 <name>animations</name>
                 <value>true</value>
@@ -102,6 +102,7 @@
     </flexiPageRegions>
     <flexiPageRegions>
         <componentInstances>
+            <componentInstanceProperties>
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
             </componentInstanceProperties>
