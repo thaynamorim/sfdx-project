@@ -94,6 +94,12 @@
     <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
+
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
+
                 <name>latField</name>
                 <value>Location__Latitude__s</value>
             </componentInstanceProperties>
@@ -106,6 +112,7 @@
                 <value>Name</value>
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
+
         </componentInstances>
         <componentInstances>
             <componentName>runtime_sales_activities:activityPanel</componentName>
