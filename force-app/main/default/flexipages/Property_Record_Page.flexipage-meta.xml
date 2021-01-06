@@ -99,8 +99,6 @@
             </componentInstanceProperties>
             <componentName>PictureGalleryCard</componentName>
         </componentInstances>
-    </flexiPageRegions>
-    <flexiPageRegions>
         <componentInstances>
             <componentInstanceProperties>
                 <name>latField</name>
